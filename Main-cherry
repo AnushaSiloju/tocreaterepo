@@ -3,5 +3,6 @@ eksctl is an infrastructure as code (IaC) utility that uses AWS CloudFormation t
 It also creates additional Kubernetes resources, such as service accounts. 
 For instructions on how to install eksctl, see Installation in the eksctl documentation
 
-
+with no conflict
 something added in main
+whitelist ips 
